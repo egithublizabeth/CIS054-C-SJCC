@@ -1,1 +1,1 @@
-# CIS054-C-SJCC
+# CIS054 | C++ | SJCC
